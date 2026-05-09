@@ -1,0 +1,35 @@
+# Day 2
+
+## Topics Learned
+- Contact in Salesforce
+- Opportunity in Salesforce
+- Difference between Account and Contact
+- Salesforce Sales Process Flow
+
+## Concepts Understood
+
+### Contact
+A Contact is a person associated with an Account or company. It stores details such as name, phone number, email, and designation.
+
+### Opportunity
+An Opportunity is a potential sales deal that helps organizations track sales progress and expected revenue.
+
+### Difference Between Account and Contact
+An Account represents a company or organization, whereas a Contact represents an individual person associated with that company.
+
+### Salesforce Flow
+Lead → Contact → Opportunity → Customer
+
+- Lead: Person interested in product/service
+- Contact: Confirmed person details
+- Opportunity: Possible business deal
+- Customer: Successfully converted client
+
+## Practical Work
+- Learned Salesforce CRM concepts
+- Understood sales flow process
+- Completed form submission work
+- Updated GitHub repository
+
+## Outcome
+Gained knowledge about Salesforce objects and customer management process.
